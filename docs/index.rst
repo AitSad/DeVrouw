@@ -1,4 +1,4 @@
-MyLibrary Documentation
+DeVrouw Documentation
 ========================
 
 .. toctree::
