@@ -11,7 +11,7 @@ setup(
     description="A Python library for data analysis and visualization",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/AitzazImtiaz/DeVrouw",
+    url="https://devrouw.readthedocs.io/",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
