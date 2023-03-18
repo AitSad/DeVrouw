@@ -1,6 +1,6 @@
 import pandas as pd
 
-class Analysis:
+class analysis:
     def __init__(self, data: pd.Series):
         self.data = data
     
