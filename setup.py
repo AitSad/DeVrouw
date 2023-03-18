@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="devrouw",
-    version="0.1.0",
+    version="0.1.1",
     author="Aitzaz Imtiaz",
     author_email="aitzazimtiaz855@gmail.com",
     description="A Python library for data analysis and visualization",
