@@ -1,6 +1,6 @@
 <h1 align=center>DeVrouw <img src="https://github.com/AitSad/Static/blob/main/DeVrouw/woman%20waving.gif" height=35></h1>
 
-DeVrouw is a dutch word reffering to "woman", not after the woman meme but to celeberate upcoming birthdate of mathematician Sophe Germain.  The library is useful for visualization and data analysis for beginners without using MatPlotlib and pandas together to write hectic scripts. 
+DeVrouw is a dutch word reffering to "woman", not after the woman meme but to celeberate upcoming birthdate of mathematician Sophe Germain.  The library is useful for visualization and data analysis for beginners without using MatPlotlib and pandas together to write hectic scripts. Did you know? DeVrouw was entirely created by an AI system, and not even a single line, including this was written independently and copied from source! 
 
 ### Usage
 
