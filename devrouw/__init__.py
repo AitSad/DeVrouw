@@ -1,2 +1,2 @@
-from .visualization import *
-from .analysis import *
+from devrouw.visualization import *
+from devrouw.analysis import *
