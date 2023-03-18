@@ -6,10 +6,9 @@ DeVrouw Documentation
    :caption: Contents:
 
    installation
-   usage
    modules
    contributing
-   changelog
+   api_reference
 
 Indices and tables
 ==================
