@@ -3,7 +3,7 @@ Contributing to DeVrouw
 
 Thank you for your interest in contributing to DeVrouw! We welcome contributions from everyone.
 
-Before you start, please read our `Code of Conduct <https://github.com/AitSad/.github/CODE_OF_CONDUCT.md>`_ to ensure that you understand our expectations for behavior.
+Before you start, please read our `Code of Conduct <https://raw.githubusercontent.com/AitSad/.github/main/CODE_OF_CONDUCT.md>`_ to ensure that you understand our expectations for behavior.
 
 How to Contribute
 -----------------
@@ -30,4 +30,4 @@ In your issue, please provide as much detail as possible about the problem or fe
 Code of Conduct
 ---------------
 
-Please note that this project follows a `Code of Conduct <https://github.com/AitSad/.github/CODE_OF_CONDUCT.md>`_. By participating in this project you agree to abide by its terms.
+Please note that this project follows a `Code of Conduct <https://raw.githubusercontent.com/AitSad/.github/main/CODE_OF_CONDUCT.md>`_. By participating in this project you agree to abide by its terms.
