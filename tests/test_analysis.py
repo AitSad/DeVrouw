@@ -1,6 +1,6 @@
 import pandas as pd
 import pytest
-from devrouw.analysis import *
+from devrouw.analysis import analysis
 
 
 @pytest.fixture
