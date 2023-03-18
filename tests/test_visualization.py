@@ -1,6 +1,6 @@
 import pandas as pd
 import pytest
-from devrouw.visualization import *
+from devrouw.visualization import visualization
 
 
 @pytest.fixture
